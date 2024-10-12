@@ -1,0 +1,36 @@
+<!-- templates/emails/email_template.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Post approved</title>
+</head>
+<body>
+    {% if user.first_name %}
+    <h1>Hello {{user.first_name}}!</h1>
+    {% else %}
+    <h1>Hello {{user}}!</h1>
+    {% endif %}
+    <br>
+    <p>
+        We are excited to inform you that your vehicle post for {{ vehicle}} has been approved and is now live on autoby24! <br>
+        Thank you for choosing autoby24 to list your vehicle. Here are some next steps you can take:
+        <ul>
+            <li>
+                <b>Share your listing:</b> Promote your vehicle on social media and other platforms to attract more buyers.
+            </li>
+            <li>
+               <b> Update your inventory:</b> Keep your listings up to date to ensure potential buyers have accurate information.
+            </li>
+            <li>
+                <b>Connect with buyers:</b> Respond promptly to inquiries to provide a great buying experience.
+            </li>
+        </ul> <br>
+        If you have any questions or need further assistance, feel free to reach out to us at support@autoby24.com. 
+        Thank you for being a valued member of the autoby24 community.<br><br>
+        Best regards, <br>
+        The autoby24 Team
+
+    </p>
+</body>
+</html>
+

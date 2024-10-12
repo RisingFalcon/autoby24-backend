@@ -1,0 +1,2492 @@
+[
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Afghanistan",
+      "phone_code": "93",
+      "currency": "AFN",
+      "currency_symbol": "؋",
+      "emoji": "🇦🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Aland Islands",
+      "phone_code": "+358-18",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇦🇽"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Albania",
+      "phone_code": "355",
+      "currency": "ALL",
+      "currency_symbol": "Lek",
+      "emoji": "🇦🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Algeria",
+      "phone_code": "213",
+      "currency": "DZD",
+      "currency_symbol": "دج",
+      "emoji": "🇩🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "American Samoa",
+      "phone_code": "+1-684",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇦🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Andorra",
+      "phone_code": "376",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇦🇩"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Angola",
+      "phone_code": "244",
+      "currency": "AOA",
+      "currency_symbol": "Kz",
+      "emoji": "🇦🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Anguilla",
+      "phone_code": "+1-264",
+      "currency": "XCD",
+      "currency_symbol": "$",
+      "emoji": "🇦🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Antarctica",
+      "phone_code": "672",
+      "currency": "AAD",
+      "currency_symbol": "$",
+      "emoji": "🇦🇶"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Antigua And Barbuda",
+      "phone_code": "+1-268",
+      "currency": "XCD",
+      "currency_symbol": "$",
+      "emoji": "🇦🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Argentina",
+      "phone_code": "54",
+      "currency": "ARS",
+      "currency_symbol": "$",
+      "emoji": "🇦🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Armenia",
+      "phone_code": "374",
+      "currency": "AMD",
+      "currency_symbol": "֏",
+      "emoji": "🇦🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Aruba",
+      "phone_code": "297",
+      "currency": "AWG",
+      "currency_symbol": "ƒ",
+      "emoji": "🇦🇼"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Australia",
+      "phone_code": "61",
+      "currency": "AUD",
+      "currency_symbol": "$",
+      "emoji": "🇦🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Austria",
+      "phone_code": "43",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇦🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Azerbaijan",
+      "phone_code": "994",
+      "currency": "AZN",
+      "currency_symbol": "m",
+      "emoji": "🇦🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bahrain",
+      "phone_code": "973",
+      "currency": "BHD",
+      "currency_symbol": ".د.ب",
+      "emoji": "🇧🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bangladesh",
+      "phone_code": "880",
+      "currency": "BDT",
+      "currency_symbol": "৳",
+      "emoji": "🇧🇩"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Barbados",
+      "phone_code": "+1-246",
+      "currency": "BBD",
+      "currency_symbol": "Bds$",
+      "emoji": "🇧🇧"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Belarus",
+      "phone_code": "375",
+      "currency": "BYN",
+      "currency_symbol": "Br",
+      "emoji": "🇧🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Belgium",
+      "phone_code": "32",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇧🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Belize",
+      "phone_code": "501",
+      "currency": "BZD",
+      "currency_symbol": "$",
+      "emoji": "🇧🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Benin",
+      "phone_code": "229",
+      "currency": "XOF",
+      "currency_symbol": "CFA",
+      "emoji": "🇧🇯"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bermuda",
+      "phone_code": "+1-441",
+      "currency": "BMD",
+      "currency_symbol": "$",
+      "emoji": "🇧🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bhutan",
+      "phone_code": "975",
+      "currency": "BTN",
+      "currency_symbol": "Nu.",
+      "emoji": "🇧🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bolivia",
+      "phone_code": "591",
+      "currency": "BOB",
+      "currency_symbol": "Bs.",
+      "emoji": "🇧🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "phone_code": "599",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇧🇶"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bosnia and Herzegovina",
+      "phone_code": "387",
+      "currency": "BAM",
+      "currency_symbol": "KM",
+      "emoji": "🇧🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Botswana",
+      "phone_code": "267",
+      "currency": "BWP",
+      "currency_symbol": "P",
+      "emoji": "🇧🇼"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bouvet Island",
+      "phone_code": "55",
+      "currency": "NOK",
+      "currency_symbol": "kr",
+      "emoji": "🇧🇻"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Brazil",
+      "phone_code": "55",
+      "currency": "BRL",
+      "currency_symbol": "R$",
+      "emoji": "🇧🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "British Indian Ocean Territory",
+      "phone_code": "246",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇮🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Brunei",
+      "phone_code": "673",
+      "currency": "BND",
+      "currency_symbol": "B$",
+      "emoji": "🇧🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Bulgaria",
+      "phone_code": "359",
+      "currency": "BGN",
+      "currency_symbol": "Лв.",
+      "emoji": "🇧🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Burkina Faso",
+      "phone_code": "226",
+      "currency": "XOF",
+      "currency_symbol": "CFA",
+      "emoji": "🇧🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Burundi",
+      "phone_code": "257",
+      "currency": "BIF",
+      "currency_symbol": "FBu",
+      "emoji": "🇧🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cambodia",
+      "phone_code": "855",
+      "currency": "KHR",
+      "currency_symbol": "KHR",
+      "emoji": "🇰🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cameroon",
+      "phone_code": "237",
+      "currency": "XAF",
+      "currency_symbol": "FCFA",
+      "emoji": "🇨🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Canada",
+      "phone_code": "1",
+      "currency": "CAD",
+      "currency_symbol": "$",
+      "emoji": "🇨🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cape Verde",
+      "phone_code": "238",
+      "currency": "CVE",
+      "currency_symbol": "$",
+      "emoji": "🇨🇻"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cayman Islands",
+      "phone_code": "+1-345",
+      "currency": "KYD",
+      "currency_symbol": "$",
+      "emoji": "🇰🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Central African Republic",
+      "phone_code": "236",
+      "currency": "XAF",
+      "currency_symbol": "FCFA",
+      "emoji": "🇨🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Chad",
+      "phone_code": "235",
+      "currency": "XAF",
+      "currency_symbol": "FCFA",
+      "emoji": "🇹🇩"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Chile",
+      "phone_code": "56",
+      "currency": "CLP",
+      "currency_symbol": "$",
+      "emoji": "🇨🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "China",
+      "phone_code": "86",
+      "currency": "CNY",
+      "currency_symbol": "¥",
+      "emoji": "🇨🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Christmas Island",
+      "phone_code": "61",
+      "currency": "AUD",
+      "currency_symbol": "$",
+      "emoji": "🇨🇽"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cocos (Keeling) Islands",
+      "phone_code": "61",
+      "currency": "AUD",
+      "currency_symbol": "$",
+      "emoji": "🇨🇨"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Colombia",
+      "phone_code": "57",
+      "currency": "COP",
+      "currency_symbol": "$",
+      "emoji": "🇨🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Comoros",
+      "phone_code": "269",
+      "currency": "KMF",
+      "currency_symbol": "CF",
+      "emoji": "🇰🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Congo",
+      "phone_code": "242",
+      "currency": "XAF",
+      "currency_symbol": "FC",
+      "emoji": "🇨🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cook Islands",
+      "phone_code": "682",
+      "currency": "NZD",
+      "currency_symbol": "$",
+      "emoji": "🇨🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Costa Rica",
+      "phone_code": "506",
+      "currency": "CRC",
+      "currency_symbol": "₡",
+      "emoji": "🇨🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cote D'Ivoire (Ivory Coast)",
+      "phone_code": "225",
+      "currency": "XOF",
+      "currency_symbol": "CFA",
+      "emoji": "🇨🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Croatia",
+      "phone_code": "385",
+      "currency": "HRK",
+      "currency_symbol": "kn",
+      "emoji": "🇭🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cuba",
+      "phone_code": "53",
+      "currency": "CUP",
+      "currency_symbol": "$",
+      "emoji": "🇨🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Curaçao",
+      "phone_code": "599",
+      "currency": "ANG",
+      "currency_symbol": "ƒ",
+      "emoji": "🇨🇼"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Cyprus",
+      "phone_code": "357",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇨🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Czech Republic",
+      "phone_code": "420",
+      "currency": "CZK",
+      "currency_symbol": "Kč",
+      "emoji": "🇨🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Democratic Republic of the Congo",
+      "phone_code": "243",
+      "currency": "CDF",
+      "currency_symbol": "FC",
+      "emoji": "🇨🇩"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Denmark",
+      "phone_code": "45",
+      "currency": "DKK",
+      "currency_symbol": "Kr.",
+      "emoji": "🇩🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Djibouti",
+      "phone_code": "253",
+      "currency": "DJF",
+      "currency_symbol": "Fdj",
+      "emoji": "🇩🇯"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Dominica",
+      "phone_code": "+1-767",
+      "currency": "XCD",
+      "currency_symbol": "$",
+      "emoji": "🇩🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Dominican Republic",
+      "phone_code": "+1-809 and 1-829",
+      "currency": "DOP",
+      "currency_symbol": "$",
+      "emoji": "🇩🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "East Timor",
+      "phone_code": "670",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇹🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Ecuador",
+      "phone_code": "593",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇪🇨"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Egypt",
+      "phone_code": "20",
+      "currency": "EGP",
+      "currency_symbol": "ج.م",
+      "emoji": "🇪🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "El Salvador",
+      "phone_code": "503",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇸🇻"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Equatorial Guinea",
+      "phone_code": "240",
+      "currency": "XAF",
+      "currency_symbol": "FCFA",
+      "emoji": "🇬🇶"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Eritrea",
+      "phone_code": "291",
+      "currency": "ERN",
+      "currency_symbol": "Nfk",
+      "emoji": "🇪🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Estonia",
+      "phone_code": "372",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇪🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Ethiopia",
+      "phone_code": "251",
+      "currency": "ETB",
+      "currency_symbol": "Nkf",
+      "emoji": "🇪🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Falkland Islands",
+      "phone_code": "500",
+      "currency": "FKP",
+      "currency_symbol": "£",
+      "emoji": "🇫🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Faroe Islands",
+      "phone_code": "298",
+      "currency": "DKK",
+      "currency_symbol": "Kr.",
+      "emoji": "🇫🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Fiji Islands",
+      "phone_code": "679",
+      "currency": "FJD",
+      "currency_symbol": "FJ$",
+      "emoji": "🇫🇯"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Finland",
+      "phone_code": "358",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇫🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "France",
+      "phone_code": "33",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇫🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "French Guiana",
+      "phone_code": "594",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇬🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "French Polynesia",
+      "phone_code": "689",
+      "currency": "XPF",
+      "currency_symbol": "₣",
+      "emoji": "🇵🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "French Southern Territories",
+      "phone_code": "262",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇹🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Gabon",
+      "phone_code": "241",
+      "currency": "XAF",
+      "currency_symbol": "FCFA",
+      "emoji": "🇬🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Gambia The",
+      "phone_code": "220",
+      "currency": "GMD",
+      "currency_symbol": "D",
+      "emoji": "🇬🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Georgia",
+      "phone_code": "995",
+      "currency": "GEL",
+      "currency_symbol": "ლ",
+      "emoji": "🇬🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Germany",
+      "phone_code": "49",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇩🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Ghana",
+      "phone_code": "233",
+      "currency": "GHS",
+      "currency_symbol": "GH₵",
+      "emoji": "🇬🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Gibraltar",
+      "phone_code": "350",
+      "currency": "GIP",
+      "currency_symbol": "£",
+      "emoji": "🇬🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Greece",
+      "phone_code": "30",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇬🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Greenland",
+      "phone_code": "299",
+      "currency": "DKK",
+      "currency_symbol": "Kr.",
+      "emoji": "🇬🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Grenada",
+      "phone_code": "+1-473",
+      "currency": "XCD",
+      "currency_symbol": "$",
+      "emoji": "🇬🇩"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Guadeloupe",
+      "phone_code": "590",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇬🇵"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Guam",
+      "phone_code": "+1-671",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇬🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Guatemala",
+      "phone_code": "502",
+      "currency": "GTQ",
+      "currency_symbol": "Q",
+      "emoji": "🇬🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Guernsey and Alderney",
+      "phone_code": "+44-1481",
+      "currency": "GBP",
+      "currency_symbol": "£",
+      "emoji": "🇬🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Guinea",
+      "phone_code": "224",
+      "currency": "GNF",
+      "currency_symbol": "FG",
+      "emoji": "🇬🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Guyana",
+      "phone_code": "592",
+      "currency": "GYD",
+      "currency_symbol": "$",
+      "emoji": "🇬🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Haiti",
+      "phone_code": "509",
+      "currency": "HTG",
+      "currency_symbol": "G",
+      "emoji": "🇭🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Heard Island and McDonald Islands",
+      "phone_code": "672",
+      "currency": "AUD",
+      "currency_symbol": "$",
+      "emoji": "🇭🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Honduras",
+      "phone_code": "504",
+      "currency": "HNL",
+      "currency_symbol": "L",
+      "emoji": "🇭🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Hong Kong S.A.R.",
+      "phone_code": "852",
+      "currency": "HKD",
+      "currency_symbol": "$",
+      "emoji": "🇭🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Hungary",
+      "phone_code": "36",
+      "currency": "HUF",
+      "currency_symbol": "Ft",
+      "emoji": "🇭🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Iceland",
+      "phone_code": "354",
+      "currency": "ISK",
+      "currency_symbol": "kr",
+      "emoji": "🇮🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "India",
+      "phone_code": "91",
+      "currency": "INR",
+      "currency_symbol": "₹",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Indonesia",
+      "phone_code": "62",
+      "currency": "IDR",
+      "currency_symbol": "Rp",
+      "emoji": "🇮🇩"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Iran",
+      "phone_code": "98",
+      "currency": "IRR",
+      "currency_symbol": "﷼",
+      "emoji": "🇮🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Iraq",
+      "phone_code": "964",
+      "currency": "IQD",
+      "currency_symbol": "د.ع",
+      "emoji": "🇮🇶"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Ireland",
+      "phone_code": "353",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇮🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Israel",
+      "phone_code": "972",
+      "currency": "ILS",
+      "currency_symbol": "₪",
+      "emoji": "🇮🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Italy",
+      "phone_code": "39",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇮🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Jamaica",
+      "phone_code": "+1-876",
+      "currency": "JMD",
+      "currency_symbol": "J$",
+      "emoji": "🇯🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Japan",
+      "phone_code": "81",
+      "currency": "JPY",
+      "currency_symbol": "¥",
+      "emoji": "🇯🇵"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Jersey",
+      "phone_code": "+44-1534",
+      "currency": "GBP",
+      "currency_symbol": "£",
+      "emoji": "🇯🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Jordan",
+      "phone_code": "962",
+      "currency": "JOD",
+      "currency_symbol": "ا.د",
+      "emoji": "🇯🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Kazakhstan",
+      "phone_code": "7",
+      "currency": "KZT",
+      "currency_symbol": "лв",
+      "emoji": "🇰🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Kenya",
+      "phone_code": "254",
+      "currency": "KES",
+      "currency_symbol": "KSh",
+      "emoji": "🇰🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Kiribati",
+      "phone_code": "686",
+      "currency": "AUD",
+      "currency_symbol": "$",
+      "emoji": "🇰🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Kosovo",
+      "phone_code": "383",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇽🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Kuwait",
+      "phone_code": "965",
+      "currency": "KWD",
+      "currency_symbol": "ك.د",
+      "emoji": "🇰🇼"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Kyrgyzstan",
+      "phone_code": "996",
+      "currency": "KGS",
+      "currency_symbol": "лв",
+      "emoji": "🇰🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Laos",
+      "phone_code": "856",
+      "currency": "LAK",
+      "currency_symbol": "₭",
+      "emoji": "🇱🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Latvia",
+      "phone_code": "371",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇱🇻"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Lebanon",
+      "phone_code": "961",
+      "currency": "LBP",
+      "currency_symbol": "£",
+      "emoji": "🇱🇧"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Lesotho",
+      "phone_code": "266",
+      "currency": "LSL",
+      "currency_symbol": "L",
+      "emoji": "🇱🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Liberia",
+      "phone_code": "231",
+      "currency": "LRD",
+      "currency_symbol": "$",
+      "emoji": "🇱🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Libya",
+      "phone_code": "218",
+      "currency": "LYD",
+      "currency_symbol": "د.ل",
+      "emoji": "🇱🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Liechtenstein",
+      "phone_code": "423",
+      "currency": "CHF",
+      "currency_symbol": "CHf",
+      "emoji": "🇱🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Lithuania",
+      "phone_code": "370",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇱🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Luxembourg",
+      "phone_code": "352",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇱🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Macau S.A.R.",
+      "phone_code": "853",
+      "currency": "MOP",
+      "currency_symbol": "$",
+      "emoji": "🇲🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Madagascar",
+      "phone_code": "261",
+      "currency": "MGA",
+      "currency_symbol": "Ar",
+      "emoji": "🇲🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Malawi",
+      "phone_code": "265",
+      "currency": "MWK",
+      "currency_symbol": "MK",
+      "emoji": "🇲🇼"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Malaysia",
+      "phone_code": "60",
+      "currency": "MYR",
+      "currency_symbol": "RM",
+      "emoji": "🇲🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Maldives",
+      "phone_code": "960",
+      "currency": "MVR",
+      "currency_symbol": "Rf",
+      "emoji": "🇲🇻"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Mali",
+      "phone_code": "223",
+      "currency": "XOF",
+      "currency_symbol": "CFA",
+      "emoji": "🇲🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Malta",
+      "phone_code": "356",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇲🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Man (Isle of)",
+      "phone_code": "+44-1624",
+      "currency": "GBP",
+      "currency_symbol": "£",
+      "emoji": "🇮🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Marshall Islands",
+      "phone_code": "692",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇲🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Martinique",
+      "phone_code": "596",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇲🇶"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Mauritania",
+      "phone_code": "222",
+      "currency": "MRO",
+      "currency_symbol": "MRU",
+      "emoji": "🇲🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Mauritius",
+      "phone_code": "230",
+      "currency": "MUR",
+      "currency_symbol": "₨",
+      "emoji": "🇲🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Mayotte",
+      "phone_code": "262",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇾🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Mexico",
+      "phone_code": "52",
+      "currency": "MXN",
+      "currency_symbol": "$",
+      "emoji": "🇲🇽"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Micronesia",
+      "phone_code": "691",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇫🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Moldova",
+      "phone_code": "373",
+      "currency": "MDL",
+      "currency_symbol": "L",
+      "emoji": "🇲🇩"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Monaco",
+      "phone_code": "377",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇲🇨"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Mongolia",
+      "phone_code": "976",
+      "currency": "MNT",
+      "currency_symbol": "₮",
+      "emoji": "🇲🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Montenegro",
+      "phone_code": "382",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇲🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Montserrat",
+      "phone_code": "+1-664",
+      "currency": "XCD",
+      "currency_symbol": "$",
+      "emoji": "🇲🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Morocco",
+      "phone_code": "212",
+      "currency": "MAD",
+      "currency_symbol": "DH",
+      "emoji": "🇲🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Mozambique",
+      "phone_code": "258",
+      "currency": "MZN",
+      "currency_symbol": "MT",
+      "emoji": "🇲🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Myanmar",
+      "phone_code": "95",
+      "currency": "MMK",
+      "currency_symbol": "K",
+      "emoji": "🇲🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Namibia",
+      "phone_code": "264",
+      "currency": "NAD",
+      "currency_symbol": "$",
+      "emoji": "🇳🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Nauru",
+      "phone_code": "674",
+      "currency": "AUD",
+      "currency_symbol": "$",
+      "emoji": "🇳🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Nepal",
+      "phone_code": "977",
+      "currency": "NPR",
+      "currency_symbol": "₨",
+      "emoji": "🇳🇵"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Netherlands",
+      "phone_code": "31",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "New Caledonia",
+      "phone_code": "687",
+      "currency": "XPF",
+      "currency_symbol": "₣",
+      "emoji": "🇳🇨"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "New Zealand",
+      "phone_code": "64",
+      "currency": "NZD",
+      "currency_symbol": "$",
+      "emoji": "🇳🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Nicaragua",
+      "phone_code": "505",
+      "currency": "NIO",
+      "currency_symbol": "C$",
+      "emoji": "🇳🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Niger",
+      "phone_code": "227",
+      "currency": "XOF",
+      "currency_symbol": "CFA",
+      "emoji": "🇳🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Nigeria",
+      "phone_code": "234",
+      "currency": "NGN",
+      "currency_symbol": "₦",
+      "emoji": "🇳🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Niue",
+      "phone_code": "683",
+      "currency": "NZD",
+      "currency_symbol": "$",
+      "emoji": "🇳🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Norfolk Island",
+      "phone_code": "672",
+      "currency": "AUD",
+      "currency_symbol": "$",
+      "emoji": "🇳🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "North Korea",
+      "phone_code": "850",
+      "currency": "KPW",
+      "currency_symbol": "₩",
+      "emoji": "🇰🇵"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "North Macedonia",
+      "phone_code": "389",
+      "currency": "MKD",
+      "currency_symbol": "ден",
+      "emoji": "🇲🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Northern Mariana Islands",
+      "phone_code": "+1-670",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇲🇵"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Norway",
+      "phone_code": "47",
+      "currency": "NOK",
+      "currency_symbol": "kr",
+      "emoji": "🇳🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Oman",
+      "phone_code": "968",
+      "currency": "OMR",
+      "currency_symbol": ".ع.ر",
+      "emoji": "🇴🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Pakistan",
+      "phone_code": "92",
+      "currency": "PKR",
+      "currency_symbol": "₨",
+      "emoji": "🇵🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Palau",
+      "phone_code": "680",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇵🇼"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Palestinian Territory Occupied",
+      "phone_code": "970",
+      "currency": "ILS",
+      "currency_symbol": "₪",
+      "emoji": "🇵🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Panama",
+      "phone_code": "507",
+      "currency": "PAB",
+      "currency_symbol": "B/.",
+      "emoji": "🇵🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Papua new Guinea",
+      "phone_code": "675",
+      "currency": "PGK",
+      "currency_symbol": "K",
+      "emoji": "🇵🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Paraguay",
+      "phone_code": "595",
+      "currency": "PYG",
+      "currency_symbol": "₲",
+      "emoji": "🇵🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Peru",
+      "phone_code": "51",
+      "currency": "PEN",
+      "currency_symbol": "S/.",
+      "emoji": "🇵🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Philippines",
+      "phone_code": "63",
+      "currency": "PHP",
+      "currency_symbol": "₱",
+      "emoji": "🇵🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Pitcairn Island",
+      "phone_code": "870",
+      "currency": "NZD",
+      "currency_symbol": "$",
+      "emoji": "🇵🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Poland",
+      "phone_code": "48",
+      "currency": "PLN",
+      "currency_symbol": "zł",
+      "emoji": "🇵🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Portugal",
+      "phone_code": "351",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇵🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Puerto Rico",
+      "phone_code": "+1-787 and 1-939",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇵🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Qatar",
+      "phone_code": "974",
+      "currency": "QAR",
+      "currency_symbol": "ق.ر",
+      "emoji": "🇶🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Reunion",
+      "phone_code": "262",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇷🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Romania",
+      "phone_code": "40",
+      "currency": "RON",
+      "currency_symbol": "lei",
+      "emoji": "🇷🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Russia",
+      "phone_code": "7",
+      "currency": "RUB",
+      "currency_symbol": "₽",
+      "emoji": "🇷🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Rwanda",
+      "phone_code": "250",
+      "currency": "RWF",
+      "currency_symbol": "FRw",
+      "emoji": "🇷🇼"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Saint Helena",
+      "phone_code": "290",
+      "currency": "SHP",
+      "currency_symbol": "£",
+      "emoji": "🇸🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Saint Kitts And Nevis",
+      "phone_code": "+1-869",
+      "currency": "XCD",
+      "currency_symbol": "$",
+      "emoji": "🇰🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Saint Lucia",
+      "phone_code": "+1-758",
+      "currency": "XCD",
+      "currency_symbol": "$",
+      "emoji": "🇱🇨"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Saint Pierre and Miquelon",
+      "phone_code": "508",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇵🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Saint Vincent And The Grenadines",
+      "phone_code": "+1-784",
+      "currency": "XCD",
+      "currency_symbol": "$",
+      "emoji": "🇻🇨"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Saint-Barthelemy",
+      "phone_code": "590",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇧🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Saint-Martin (French part)",
+      "phone_code": "590",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇲🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Samoa",
+      "phone_code": "685",
+      "currency": "WST",
+      "currency_symbol": "SAT",
+      "emoji": "🇼🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "San Marino",
+      "phone_code": "378",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇸🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Sao Tome and Principe",
+      "phone_code": "239",
+      "currency": "STD",
+      "currency_symbol": "Db",
+      "emoji": "🇸🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Saudi Arabia",
+      "phone_code": "966",
+      "currency": "SAR",
+      "currency_symbol": "﷼",
+      "emoji": "🇸🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Senegal",
+      "phone_code": "221",
+      "currency": "XOF",
+      "currency_symbol": "CFA",
+      "emoji": "🇸🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Serbia",
+      "phone_code": "381",
+      "currency": "RSD",
+      "currency_symbol": "din",
+      "emoji": "🇷🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Seychelles",
+      "phone_code": "248",
+      "currency": "SCR",
+      "currency_symbol": "SRe",
+      "emoji": "🇸🇨"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Sierra Leone",
+      "phone_code": "232",
+      "currency": "SLL",
+      "currency_symbol": "Le",
+      "emoji": "🇸🇱"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Singapore",
+      "phone_code": "65",
+      "currency": "SGD",
+      "currency_symbol": "$",
+      "emoji": "🇸🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Sint Maarten (Dutch part)",
+      "phone_code": "1721",
+      "currency": "ANG",
+      "currency_symbol": "ƒ",
+      "emoji": "🇸🇽"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Slovakia",
+      "phone_code": "421",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇸🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Slovenia",
+      "phone_code": "386",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇸🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Solomon Islands",
+      "phone_code": "677",
+      "currency": "SBD",
+      "currency_symbol": "Si$",
+      "emoji": "🇸🇧"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Somalia",
+      "phone_code": "252",
+      "currency": "SOS",
+      "currency_symbol": "Sh.so.",
+      "emoji": "🇸🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "South Africa",
+      "phone_code": "27",
+      "currency": "ZAR",
+      "currency_symbol": "R",
+      "emoji": "🇿🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "South Georgia",
+      "phone_code": "500",
+      "currency": "GBP",
+      "currency_symbol": "£",
+      "emoji": "🇬🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "South Korea",
+      "phone_code": "82",
+      "currency": "KRW",
+      "currency_symbol": "₩",
+      "emoji": "🇰🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "South Sudan",
+      "phone_code": "211",
+      "currency": "SSP",
+      "currency_symbol": "£",
+      "emoji": "🇸🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Spain",
+      "phone_code": "34",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇪🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Sri Lanka",
+      "phone_code": "94",
+      "currency": "LKR",
+      "currency_symbol": "Rs",
+      "emoji": "🇱🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Sudan",
+      "phone_code": "249",
+      "currency": "SDG",
+      "currency_symbol": ".س.ج",
+      "emoji": "🇸🇩"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Suriname",
+      "phone_code": "597",
+      "currency": "SRD",
+      "currency_symbol": "$",
+      "emoji": "🇸🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Svalbard And Jan Mayen Islands",
+      "phone_code": "47",
+      "currency": "NOK",
+      "currency_symbol": "kr",
+      "emoji": "🇸🇯"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Swaziland",
+      "phone_code": "268",
+      "currency": "SZL",
+      "currency_symbol": "E",
+      "emoji": "🇸🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Sweden",
+      "phone_code": "46",
+      "currency": "SEK",
+      "currency_symbol": "kr",
+      "emoji": "🇸🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Switzerland",
+      "phone_code": "41",
+      "currency": "CHF",
+      "currency_symbol": "CHf",
+      "emoji": "🇨🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Syria",
+      "phone_code": "963",
+      "currency": "SYP",
+      "currency_symbol": "LS",
+      "emoji": "🇸🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Taiwan",
+      "phone_code": "886",
+      "currency": "TWD",
+      "currency_symbol": "$",
+      "emoji": "🇹🇼"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Tajikistan",
+      "phone_code": "992",
+      "currency": "TJS",
+      "currency_symbol": "SM",
+      "emoji": "🇹🇯"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Tanzania",
+      "phone_code": "255",
+      "currency": "TZS",
+      "currency_symbol": "TSh",
+      "emoji": "🇹🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Thailand",
+      "phone_code": "66",
+      "currency": "THB",
+      "currency_symbol": "฿",
+      "emoji": "🇹🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "The Bahamas",
+      "phone_code": "+1-242",
+      "currency": "BSD",
+      "currency_symbol": "B$",
+      "emoji": "🇧🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Togo",
+      "phone_code": "228",
+      "currency": "XOF",
+      "currency_symbol": "CFA",
+      "emoji": "🇹🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Tokelau",
+      "phone_code": "690",
+      "currency": "NZD",
+      "currency_symbol": "$",
+      "emoji": "🇹🇰"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Tonga",
+      "phone_code": "676",
+      "currency": "TOP",
+      "currency_symbol": "$",
+      "emoji": "🇹🇴"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Trinidad And Tobago",
+      "phone_code": "+1-868",
+      "currency": "TTD",
+      "currency_symbol": "$",
+      "emoji": "🇹🇹"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Tunisia",
+      "phone_code": "216",
+      "currency": "TND",
+      "currency_symbol": "ت.د",
+      "emoji": "🇹🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Turkey",
+      "phone_code": "90",
+      "currency": "TRY",
+      "currency_symbol": "₺",
+      "emoji": "🇹🇷"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Turkmenistan",
+      "phone_code": "993",
+      "currency": "TMT",
+      "currency_symbol": "T",
+      "emoji": "🇹🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Turks And Caicos Islands",
+      "phone_code": "+1-649",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇹🇨"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Tuvalu",
+      "phone_code": "688",
+      "currency": "AUD",
+      "currency_symbol": "$",
+      "emoji": "🇹🇻"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Uganda",
+      "phone_code": "256",
+      "currency": "UGX",
+      "currency_symbol": "USh",
+      "emoji": "🇺🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Ukraine",
+      "phone_code": "380",
+      "currency": "UAH",
+      "currency_symbol": "₴",
+      "emoji": "🇺🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "United Arab Emirates",
+      "phone_code": "971",
+      "currency": "AED",
+      "currency_symbol": "إ.د",
+      "emoji": "🇦🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "United Kingdom",
+      "phone_code": "44",
+      "currency": "GBP",
+      "currency_symbol": "£",
+      "emoji": "🇬🇧"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "United States",
+      "phone_code": "1",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇺🇸"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "United States Minor Outlying Islands",
+      "phone_code": "1",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇺🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Uruguay",
+      "phone_code": "598",
+      "currency": "UYU",
+      "currency_symbol": "$",
+      "emoji": "🇺🇾"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Uzbekistan",
+      "phone_code": "998",
+      "currency": "UZS",
+      "currency_symbol": "лв",
+      "emoji": "🇺🇿"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Vanuatu",
+      "phone_code": "678",
+      "currency": "VUV",
+      "currency_symbol": "VT",
+      "emoji": "🇻🇺"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Vatican City State (Holy See)",
+      "phone_code": "379",
+      "currency": "EUR",
+      "currency_symbol": "€",
+      "emoji": "🇻🇦"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Venezuela",
+      "phone_code": "58",
+      "currency": "VES",
+      "currency_symbol": "Bs",
+      "emoji": "🇻🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Vietnam",
+      "phone_code": "84",
+      "currency": "VND",
+      "currency_symbol": "₫",
+      "emoji": "🇻🇳"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Virgin Islands (British)",
+      "phone_code": "+1-284",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇻🇬"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Virgin Islands (US)",
+      "phone_code": "+1-340",
+      "currency": "USD",
+      "currency_symbol": "$",
+      "emoji": "🇻🇮"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Wallis And Futuna Islands",
+      "phone_code": "681",
+      "currency": "XPF",
+      "currency_symbol": "₣",
+      "emoji": "🇼🇫"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Western Sahara",
+      "phone_code": "212",
+      "currency": "MAD",
+      "currency_symbol": "MAD",
+      "emoji": "🇪🇭"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Yemen",
+      "phone_code": "967",
+      "currency": "YER",
+      "currency_symbol": "﷼",
+      "emoji": "🇾🇪"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Zambia",
+      "phone_code": "260",
+      "currency": "ZMW",
+      "currency_symbol": "ZK",
+      "emoji": "🇿🇲"
+    }
+  },
+  {
+    "model": "core.country",
+    "fields": {
+      "name": "Zimbabwe",
+      "phone_code": "263",
+      "currency": "ZWL",
+      "currency_symbol": "$",
+      "emoji": "🇿🇼"
+    }
+  }
+]

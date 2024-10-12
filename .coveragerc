@@ -1,0 +1,23 @@
+[run]
+branch = True
+source = .
+omit =
+    */migrations/*
+    */migrations-bkp/*
+    */tests/*
+    */settings/*
+    */wsgi.py
+    */asgi.py
+    */tests.py
+    */__init__.py
+    */urls.py
+    */apps.py
+    */admin.py
+    */models.py
+    manage.py
+
+[report]
+show_missing = True
+skip_covered = False
+precision = 2
+

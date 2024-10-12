@@ -1,0 +1,30 @@
+<!-- templates/emails/email_template.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+</head>
+<body>
+    {% if user.first_name %}
+    <h1>Hello {{user.first_name}}!</h1>
+    {% else %}
+    <h1>Hello {{user}}!</h1>
+    {% endif %}
+    <br>
+    <p>
+        Welcome to <b>autoby24!</b> <br>
+        We are thrilled to have you join our community of car and bike enthusiasts. Whether you're looking to buy a new or used vehicle, or you're a dealer wanting to list your inventory, autoby24 is here to make your experience seamless and enjoyable. <br>
+        As a new member, you can:
+        <ul>
+            <li>Browse a wide selection of cars and bikes.</li>
+            <li>Connect with reputable dealers.</li>
+            <li>Enjoy secure and convenient transactions.</li>
+        </ul>
+        If you have any questions or need assistance, our support team is here to help. Feel free to reach out to us at support@autoby24.ch <br>
+        Thank you for choosing autoby24. We look forward to helping you find your perfect vehicle. <br><br>
+        Best regards, <br>
+        The autoby24 Team
+    </p>
+</body>
+</html>
+

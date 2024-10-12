@@ -1,0 +1,56 @@
+{
+    "family": "dev-backend-task",
+    "containerDefinitions": [
+        {
+            "name": "backend",
+            "image": "010928214533.dkr.ecr.eu-central-1.amazonaws.com/dev-backend:v_%BUILD_NUMBER%",
+            "cpu": 0,
+            "portMappings": [
+                {
+                    "name": "backend-8082-tcp",
+                    "containerPort": 8082,
+                    "hostPort": 8082,
+                    "protocol": "tcp",
+                    "appProtocol": "http"
+                }
+            ],
+            "essential": true,
+            "environment": [],
+            "environmentFiles": [
+                {
+                    "value": "arn:aws:s3:::autoby24ecs-task-env/dev-backend.env",
+                    "type": "s3"
+                }
+            ],
+            "mountPoints": [],
+            "volumesFrom": [],
+            "ulimits": [],
+            "logConfiguration": {
+                "logDriver": "awslogs",
+                "options": {
+                    "awslogs-group": "/ecs/dev-backend-task",
+                    "awslogs-create-group": "true",
+                    "awslogs-region": "eu-central-1",
+                    "awslogs-stream-prefix": "ecs"
+                },
+                "secretOptions": []
+            },
+            "systemControls": []
+        }
+    ],
+    "taskRoleArn": "arn:aws:iam::010928214533:role/ecsTaskExecutionRole",
+    "executionRoleArn": "arn:aws:iam::010928214533:role/ecsTaskExecutionRole",
+    "networkMode": "awsvpc",
+    "requiresCompatibilities": [
+        "FARGATE"
+    ],
+    "cpu": "1024",
+    "memory": "2048",
+    "ephemeralStorage": {
+        "sizeInGiB": 21
+    },
+    "runtimePlatform": {
+        "cpuArchitecture": "X86_64",
+        "operatingSystemFamily": "LINUX"
+    }
+}

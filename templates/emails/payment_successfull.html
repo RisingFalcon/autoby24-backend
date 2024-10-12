@@ -1,0 +1,36 @@
+<!-- templates/emails/email_template.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Payment Successfull</title>
+</head>
+<body>
+    {% if user.first_name %}
+    <h1>Hello {{user.first_name}}!</h1>
+    {% else %}
+    <h1>Hello {{user}}!</h1>
+    {% endif %}
+    <br>
+    <p>
+        We are pleased to inform you that your payment has been successfully processed. Thank you for your purchase on autoby24! <br>
+        Here are the details of your package:
+        <ul>
+            <li>
+                <b>Package Name:</b> {{ package.name }}.
+            </li>
+            <li>
+               <b> Amount Paid:</b>{{ package.price }}.
+            </li>
+            <li>
+                <b>Duration:</b> {{ package.validity }}.
+            </li>
+        </ul> <br>
+        Your package is now active, and you can start enjoying the benefits immediately.<br>
+        If you have any questions or need further assistance, feel free to reach out to us at support@autoby24.com. <br>
+        Thank you for choosing autoby24. We look forward to serving you! <br>
+        Best regards, <br>
+        The autoby24 Team
+    </p>
+</body>
+</html>
+

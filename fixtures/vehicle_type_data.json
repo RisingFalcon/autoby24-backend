@@ -1,0 +1,262 @@
+[
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "90",
+      "type_of_car": "Sachentransportanhänger",
+      "brand": "WABAU",
+      "model": "Wabau -",
+      "approval_number": 0,
+      "chasis_number": 0,
+      "first_registration_year": 1968,
+      "country": "",
+      "placing_status": "Inverkehr",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 0,
+      "performance": "",
+      "cylinder": 0,
+      "fuel": "",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "94",
+      "type_of_car": "Arbeitsanhänger",
+      "brand": "WABAU",
+      "model": "Wabau -",
+      "approval_number": 0,
+      "chasis_number": 0,
+      "first_registration_year": 1969,
+      "country": "",
+      "placing_status": "Inverkehr",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 0,
+      "performance": "",
+      "cylinder": 0,
+      "fuel": "",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "94",
+      "type_of_car": "Arbeitsanhänger",
+      "brand": "WABAU",
+      "model": "Wabau -",
+      "approval_number": 0,
+      "chasis_number": 0,
+      "first_registration_year": 1970,
+      "country": "",
+      "placing_status": "Ausserverkehr",
+      "out_of_traffic_since_year": 2021,
+      "no_of_seats": 0,
+      "performance": "",
+      "cylinder": 0,
+      "fuel": "",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3001,
+      "first_registration_year": 2009,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3000,
+      "first_registration_year": 2009,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3001,
+      "first_registration_year": 2010,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3002,
+      "first_registration_year": 2009,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3002,
+      "first_registration_year": 2010,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3005,
+      "first_registration_year": 2010,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3006,
+      "first_registration_year": 2011,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3006,
+      "first_registration_year": 2011,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3007,
+      "first_registration_year": 2010,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  },
+  {
+    "model": "vehicle.VehicleTypeNumber",
+    "fields": {
+      "vehicle_type_number": "5WA610",
+      "type_of_car": "Arbeitskarren",
+      "brand": "8d45487d-d692-434e-ba94-4e832e8c5214",
+      "model": "f605bcdb-5a1a-4be0-97d7-73f9e80b1653",
+      "approval_number": 0,
+      "chasis_number": 3008,
+      "first_registration_year": 2010,
+      "country": "",
+      "placing_status": "",
+      "out_of_traffic_since_year": 0,
+      "no_of_seats": 1,
+      "performance": "",
+      "cylinder": 4,
+      "fuel": "D",
+      "safety_rating": 0
+    }
+  }
+]
